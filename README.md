@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @V. Yasmeen
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning front end web development
+- 👀 I’m recent graduate in ECE and interested in Web Development
+- 🌱 I’m currently learning front-end web development
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me- vyasmeen39@gmail.com
 
