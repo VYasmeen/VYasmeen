@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @V. Yasmeen
-- 👀 I’m recent graduate in ECE and interested in Web Development
-- 🌱 I’m currently learning front-end web development
-- 💞️ I’m looking to collaborate on Python projects
-- 📫 How to reach me- vyasmeen39@gmail.com
+# 👋 Hello, I'm Vulligadla Yasmeen
+
+🎓 Graduate of 2023 in Electronics and Communication Engineering (ECE)
+
+💻 Front-End Developer | 🌐 Web Enthusiast | 🚀 Continuous Learner
+
+## 🌟 About Me
+I'm a passionate Electrical and Computer Engineering graduate with a strong affinity for front-end development and web technologies. My journey in the tech world began with a curiosity for crafting beautiful and functional user interfaces. Since then, I've been on a quest to bring pixel-perfect designs to life while ensuring a seamless user experience.
+
+## 🚀 What I Love
+- Building elegant and responsive web applications
+- Exploring the latest trends in front-end development
+- Collaborating with like-minded developers on exciting projects
+
+## 🔧 Tech Stack
+- HTML | CSS | JavaScript
+- React | Vue.js | Angular
+- Version Control (Git)
+
+## 🌐 Let's Connect
+- 📧 Email: [vyasmeen39@gmail.com]
+- [LinkedIn](https://www.linkedin.com/in/yasmeenv/)
+- [Portfolio Website](https://www.yourportfolio.com)
 
 <!---
 VYasmeen/VYasmeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
