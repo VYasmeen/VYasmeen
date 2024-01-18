@@ -18,7 +18,7 @@ I'm a passionate Electrical and Computer Engineering graduate with a strong affi
 - Version Control (Git)
 
 ## 🌐 Let's Connect
-- 📧 Email: [vyasmeen39@gmail.com]
+- 📧 Email: [vyasmeen11@gmail.com]
 - [LinkedIn](https://www.linkedin.com/in/yasmeenv/)
 - [Portfolio Website](https://www.yourportfolio.com)
 
