@@ -14,6 +14,8 @@ I'm a passionate Electrical and Computer Engineering graduate with a strong affi
 
 ## 🔧 Tech Stack
 - HTML | CSS | JavaScript
+- Java
+- Python
 - React | Vue.js | Angular
 - Version Control (Git)
 
